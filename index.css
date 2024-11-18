@@ -1,0 +1,51 @@
+.awal {
+  background-color: rgb(80, 80, 147);
+  display: flex;
+  justify-content: center;
+  padding: 100px;
+}
+.tengah {
+  display: flex;
+  gap: 100px;
+  justify-content: center;
+  padding: 100px;
+}
+.dalam{
+  color: white;
+  padding-top: 8%;
+
+}
+.but1{
+  padding: 10px;
+  
+}
+.but2{
+  padding: 10px;
+  
+}
+span{
+  color: rgb(24, 24, 134);
+  font-size: 25px;
+  font-weight: 600;
+}
+.join{
+  color: rgb(24, 24, 134);
+  font-size: 25px;
+  font-weight: 600;
+}
+.akhir{
+  background-color: rgb(63, 63, 136) ;
+  display: flex;
+  justify-content: center;
+  gap: 700px;
+  color: white;
+  padding: 20px;
+
+}
+
+nav{
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  text-align: center;
+}
